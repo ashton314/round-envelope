@@ -1,0 +1,9 @@
+#+TITLE: Round Envelope
+
+(envelope)
+
+I love [[MoneyWell][https://moneywell.app/]]. The only problem is, this is one of the main things holding me back from switching to Linux. I thought I might try to write my own little version.
+
+* Author
+
+Ashton Wiersdorf <https://ashton.wiersdorf.org>
